@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #222;
+}
+
+div p {
+  color: #f00;
+  box-shadow: 0,0,0,.5;
+  border-radius: 10px;
+}
+
+input {
+  appearance: none;
+}
