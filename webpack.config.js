@@ -6,6 +6,7 @@ module.exports = {
   mode: MODE,
   watch: true,
   entry: {
+    common: "./src/common.js",
     index: "./src/index.js",
     about: "./src/about.js"
   },
